@@ -132,6 +132,12 @@ address {
     padding: 5px;
 }
 
+img.horizontal {
+    display: block;
+    margin: 0px auto;
+    width: 800px;
+}
+
 /* image styles */
 img.irregularWrap {
     clear: right;
